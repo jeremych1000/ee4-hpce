@@ -1,0 +1,21 @@
+[submodule "hpce-2016-cw6-cyk113"]
+	path = hpce-2016-cw6-cyk113
+	url = https://github.com/HPCE/hpce-2016-cw6-cyk113
+[submodule "hpce-2016-cw5-cyk113"]
+	path = hpce-2016-cw5-cyk113
+	url = https://github.com/HPCE/hpce-2016-cw5-cyk113
+[submodule "hpce-2016-cw4-jc4913"]
+	path = hpce-2016-cw4-jc4913
+	url = https://github.com/HPCE/hpce-2016-cw4-jc4913
+[submodule "hpce-2016-cw3-jc4913"]
+	path = hpce-2016-cw3-jc4913
+	url = https://github.com/HPCE/hpce-2016-cw3-jc4913
+[submodule "hpce-2016-cw2-jc4913"]
+	path = hpce-2016-cw2-jc4913
+	url = https://github.com/HPCE/hpce-2016-cw2-jc4913
+[submodule "hpce-2016-cw1-jc4913"]
+	path = hpce-2016-cw1-jc4913
+	url = https://github.com/HPCE/hpce-2016-cw1-jc4913
+[submodule "hpce-2016"]
+	path = hpce-2016
+	url = https://github.com/HPCE/hpce-2016
